@@ -14,17 +14,17 @@ void DisplayMenu()
 
         if (input is "1" or "2")
         {
-            ExecuteOperation(input);
+            var operationType = input == "1"
+                ? OperationType.CreateNewMonitor
+                : OperationType.GetStatus;
+
+            ExecuteOperation(operationType);
         }
     }
 }
 
-void ExecuteOperation(string input)
+void ExecuteOperation(OperationType operation)
 {
-    var operationType = input == "1"
-        ? OperationType.CreateNewMonitor
-        : OperationType.GetStatus;
-
     var apiKey = Utilities.TryGetValue("Api Key: ");
 
     var semaTextHttpMonitorService = new SemaTextHttpMonitorService(new RequestSender(apiKey));
@@ -32,11 +32,11 @@ void ExecuteOperation(string input)
     var output = string.Empty;
     var appId = Utilities.TryGetValue("AppId: ");
     var name = Utilities.TryGetValue("EndPoint Name: ");
-    switch (operationType)
-    {
 
+    switch (operation)
+    {
         case OperationType.GetStatus:
-            output = semaTextHttpMonitorService.GetEndPointHttpMonitorStatus(name, "19124").Result;
+            output = semaTextHttpMonitorService.GetEndPointHttpMonitorStatus(name, appId).Result;
             break;
 
         case OperationType.CreateNewMonitor:
