@@ -1,0 +1,17 @@
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\bin\Debug\net6.0\SematextMonitoringServiceTool.exe
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\bin\Debug\net6.0\SematextMonitoringServiceTool.deps.json
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\bin\Debug\net6.0\SematextMonitoringServiceTool.runtimeconfig.json
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\bin\Debug\net6.0\SematextMonitoringServiceTool.dll
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\bin\Debug\net6.0\SematextMonitoringServiceTool.pdb
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.csproj.AssemblyReference.cache
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.AssemblyInfoInputs.cache
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.AssemblyInfo.cs
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.csproj.CoreCompileInputs.cache
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.dll
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\refint\SematextMonitoringServiceTool.dll
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.pdb
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SematextMonitoringServiceTool.genruntimeconfig.cache
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\ref\SematextMonitoringServiceTool.dll
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MatanyosAntar\source\repos\SematextMonitoringServiceTool\SematextMonitoringServiceTool\obj\Debug\net6.0\SemaTextMonitoringServiceTool.csproj.CopyComplete

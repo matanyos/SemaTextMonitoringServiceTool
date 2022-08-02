@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pUUi43jyCxE8OFSkG6SjbKHdpgawmvearNFLT+kANvgEmNch0z9bcRaWqMckCNavhNAjbZnoz1lRNYDE6g8FhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MatanyosAntar\\source\\repos\\SematextMonitoringServiceTool\\SematextMonitoringServiceTool\\SemaTextMonitoringServiceTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MatanyosAntar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
