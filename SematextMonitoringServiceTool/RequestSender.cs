@@ -11,7 +11,7 @@ namespace SemaTextMonitoringServiceTool
     public class RequestSender
     {
         private string? ApiKey { get; }
-        public RequestSender(string? apiKey)
+        public RequestSender(string apiKey)
         {
             ApiKey = apiKey;
         }
